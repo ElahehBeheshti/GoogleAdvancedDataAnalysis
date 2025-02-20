@@ -1,6 +1,8 @@
 # GoogleAdvancedDataAnalysis
 Google Certificate on Coursera Platform
-<img width="704" alt="image" src="https://github.com/user-attachments/assets/2bac28f7-7b29-4e74-8bb0-dcdcf182d93a" />
+
+<img width="882" alt="image" src="https://github.com/user-attachments/assets/d857e785-a9ca-4e64-ac3b-9c86cac73325" />
+
 
 ----------------------------------------------------
 ----------------------------------------------------
