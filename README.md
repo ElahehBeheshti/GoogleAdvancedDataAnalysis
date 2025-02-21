@@ -265,6 +265,21 @@ Comparators
 		or: Returns True if at least one of the conditions is True; only False if both are False.
 		not: Inverts the Boolean value of the following expression (True becomes False, and vice versa).
 
+		Examples
+			String Comparison: "cat" == "dog" → False.
+			Using and: ("yellow" > "cyan") and ("brown" > "magenta") → False, because the second comparison is not true.
+			Using or: (25 > 50) or (1 != 2) → True, because 1 != 2 is true.
+			Using not: not (42 == "Answer") → True, because the expression (42 == "Answer") is False, and not False becomes True.
+Comparators and logical operators let data professionals write more complex code, make decisions based on data conditions, and control the flow of programs in powerful ways.
+
+Branching:
+	allows a program to choose different paths of execution (if, elif, and else statements.)
+ 		if condition1:
+    			# code if condition1 is True
+		elif condition2:
+   		 	# code if condition2 is True (and condition1 was False)
+		else:
+   			# code if neither condition1 nor condition2 is True
 
 ----------------------------------------------------
 ----------------------------------------------------
