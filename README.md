@@ -52,51 +52,79 @@ Programming language comparisons
 
 Python, R, Java, and C++ are among the most commonly used languages for data analysis. They can be compared across several dimensions such as:
 
-	◉ Speed
-	◉ Accessibility
-	◉ Variable Management
-	◉ Data Science Focus
-	◉ Programming Paradigm
+ ◉ Speed
+	
+ ◉ Accessibility
+
+ ◉ Variable Management
+
+ ◉ Data Science Focus
+
+ ◉ Programming Paradigm
 
 <img width="898" alt="image" src="https://github.com/user-attachments/assets/54e7afaa-41f2-4c20-bc66-f105f17e25f1" />
 
 2. Object-Oriented Programming: Classes, Methods, and Attributes
 
 Classes
-	◉ Definition:
-		◉ A class is a blueprint for creating objects. It bundles data (attributes) and functionality (methods) together.
-	◉ Core Python Classes:
-		◉ Primitive types: Integers, floats, strings, booleans
-		◉ Collections: Lists, dictionaries, tuples, sets, frozensets
-		◉ Others: Functions, ranges, and even None (which represents an empty value)
-		◉ Custom Classes: Many additional classes come with libraries and packages—and you can define your own.
+	
+ ◉ Definition:
+		
+ 	 ◉ A class is a blueprint for creating objects. It bundles data (attributes) and functionality (methods) together.
+
+ ◉ Core Python Classes:
+
+  	◉ Primitive types: Integers, floats, strings, booleans
+	
+  	◉ Collections: Lists, dictionaries, tuples, sets, frozensets
+	
+  	◉ Others: Functions, ranges, and even None (which represents an empty value)
+	
+  	◉ Custom Classes: Many additional classes come with libraries and packages—and you can define your own.
   
 Methods vs. Functions
-	◉ Method:
-		◉ A function that belongs to a class. Called on an object using dot notation (e.g., dog.bark()).
-	◉ Function:
-		◉ A standalone block of code that can be called anywhere without being attached to an object (e.g., def my_function(): ...).
+	
+ 	◉ Method:
+	
+  		◉ A function that belongs to a class. Called on an object using dot notation (e.g., dog.bark()).
+	
+ 	◉ Function:
+		
+  		◉ A standalone block of code that can be called anywhere without being attached to an object (e.g., def my_function(): ...).
 	
  	◉ Attributes
-		◉ Definition:
-		◉ Values associated with an object or class that are accessed using dot notation (e.g., dataframe.columns).
+	
+  		◉ Definition:
+		
+  		◉ Values associated with an object or class that are accessed using dot notation (e.g., dataframe.columns).
 		
   ◉ ◉ Note: Attributes do not use parentheses.
 
 3. Basic Python Concepts
 
 Variables and Naming
-	◉ Variables as Containers:
-		◉ Variables store values in computer memory. For example, student_name holds the name of a student.
-	◉ Naming Rules:
-		◉ No spaces allowed
-		◉ Can be a mix of upper and lower case
-		◉ Must not start with a number (but can contain numbers after the first character)
-	◉ Naming Conventions:
-		◉ Use snake_case for variable and function names (e.g., student_name is preferable to sn).
-		◉ Descriptive names help maintain readability.
-	◉ Keywords and Operators
-		Keywords:
+	
+ 	◉ Variables as Containers:
+	
+  		◉ Variables store values in computer memory. For example, student_name holds the name of a student.
+	
+ 	◉ Naming Rules:
+		
+  		◉ No spaces allowed
+		
+  		◉ Can be a mix of upper and lower case
+		
+  		◉ Must not start with a number (but can contain numbers after the first character)
+	
+ 	◉ Naming Conventions:
+		
+  		◉ Use snake_case for variable and function names (e.g., student_name is preferable to sn).
+		
+  		◉ Descriptive names help maintain readability.
+	
+ 	◉ Keywords and Operators
+	
+  		Keywords:
 			Special reserved words used for specific purposes (e.g., in, not, or, for, while, return).
 		Operators:
 		Symbols that perform operations on objects and values. Examples include:
